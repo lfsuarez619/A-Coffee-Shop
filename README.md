@@ -13,3 +13,4 @@ The COFFEE file is an interface that is implemented throughout some classes.
 BASICCOFFEE, BLACKCOFFEE, MILK, SUGAR, WHIPPEDCREAM, ESPRESSO, and HOTWATER, are all classes extend the COFFEEDECORATOR class in order to construct coffee 
 objects in the program. 
 
+The INVENTORY.TXT and LOGWRITER.TXT text files will act as an inventory counter and recipt respectivly.  
