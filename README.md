@@ -1,6 +1,6 @@
 # A-Coffee-Shop
 
-This is my forst repository on GitHub
+This is my first repository on GitHub
 
 The application will begin automatically once running. The program need only require a keyboard to scan in.
 
